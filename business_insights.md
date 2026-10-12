@@ -1,4 +1,4 @@
-Business Insights: Digital Payments, 1–31 Aug 2026
+**Business Insights: Digital Payments, 1–31 Aug 2026**
 Scope: 15,000 transactions worth ₹2.96 crore (₹29.59M). Median ticket ₹1,190 vs mean ₹1,973, so a few large payments pull the average up. The top 10% of transactions (₹4,282 and above) carry 39% of all value.
 Key findings
 UPI dominates: 65% of transactions and 65% of value (₹1.93 crore). Card is 24% of volume, wallet 10%.
