@@ -1,1 +1,1 @@
-http://localhost:3000/d/adqg559/new-dashboard?from=2026-09-30T11:39:43.610Z&to=2026-09-30T17:39:43.610Z&timezone=browser&viewPanel=panel-1
+http://localhost:3001/d/digital-payments-aug26-mysql/digital-payments-analytics-aug-2026-mysql?orgId=1&from=2026-07-31T00:00:00.000Z&to=2026-09-01T00:00:00.000Z&timezone=utc&var-payment_method=$__all&var-status=$__all&var-city=$__all&var-merchant_category=$__all&var-bank=$__all&var-channel=$__all&var-device_type=$__all&var-metric=value
